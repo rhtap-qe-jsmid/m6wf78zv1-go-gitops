@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m6wf78zv1-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/m6wf78zv1-go-gitops
